@@ -8,7 +8,7 @@ A simple command line interface (CLI) to fetch the recent activity of a GitHub u
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/flobell/github-user-activity.git
-cd task-tracker
+cd github-user-activity
 ```
 
 ### 2. Clone the Repository
