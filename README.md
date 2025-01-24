@@ -3,15 +3,22 @@ A simple command line interface (CLI) to fetch the recent activity of a GitHub u
 
 ---
 
-## Installation
+## Installation End-User Usage
+
+### 1. Easy install with Pip
+```bash
+pip install git+https://github.com/flobell/github-user-activity.git
+```
+
+## Installation Dev
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/flobell/github-user-activity.git
-cd github-user-activity
+cd task-tracker
 ```
 
-### 2. Clone the Repository
+### 2. Create virtual environment
 ```bash
 python -m venv venv
 ```
@@ -30,7 +37,7 @@ source venv/bin/activate
 ### 4. Install project package
 
 ```bash
-python setup.py install
+pip install -e .
 ```
 
 ## Unit Testing
