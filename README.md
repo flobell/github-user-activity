@@ -15,7 +15,7 @@ pip install git+https://github.com/flobell/github-user-activity.git
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/flobell/github-user-activity.git
-cd task-tracker
+cd github-user-activity
 ```
 
 ### 2. Create virtual environment
