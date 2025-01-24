@@ -3,7 +3,7 @@ A simple command line interface (CLI) to fetch the recent activity of a GitHub u
 
 ---
 
-## Installation End-User Usage
+## Installation End-user usage
 
 ### 1. Easy install with Pip
 ```bash
